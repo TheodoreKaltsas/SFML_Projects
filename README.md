@@ -1,1 +1,2 @@
 # SFML_Projects
+Currently using the book SFML Game Development by Laurent Gomila, I am learning SFML game development and am going to use the knowledge ascertained to create a rogue like RPG game in the future. Full disclosure that the code I will be writing in this repository will be mostly example code for teaching purposes and is from the book listed. I would recommend buying this book and using it in your own coding endeavours because the explanations are the best I've seen so far for SFML.
